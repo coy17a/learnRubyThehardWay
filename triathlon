@@ -1,0 +1,16 @@
+class Triathlon
+
+def enter()
+    
+    puts "Welcome to the game that will help you"
+    puts "to give you a piece of mind the day of"
+    puts "your big race. You will moving trhough a"
+    puts "race simulation and you will to choose"
+    puts "how to solve problem that you might face"
+    puts "on race day. Welcome and enjoy it."
+    puts "PS: This is a multisport race simulation"
+    puts "meaning that the distances and the order"
+    puts "of the discipline could change."
+    Puts "To start please choose between the following multisports event:"
+    puts "
+    
